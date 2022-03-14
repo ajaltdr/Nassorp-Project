@@ -1,0 +1,21 @@
+.head {
+    background-image: url("../images/bg-mobile.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-bottom: 50px;
+    
+    width: 100%;
+}
+
+.head-nav{    
+    width: 100%;
+    overflow: none;
+    
+}
+
+footer{
+    color: #FFFFFF;
+    background: #252B42;
+    margin-top: 20px;
+}
